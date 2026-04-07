@@ -1,0 +1,24 @@
+package com.rubypaper.tv;
+
+import org.springframework.context.annotation.Bean;
+
+//복잡한 context.xml 파일을 대체하는 환경설정 클래스
+public class TVConfiguration {
+	public TVConfiguration() {
+		System.out.println("---> TVConfiguration 생성");
+	}
+	
+	//@Bean으로 등록된 메소드는 스프링 컨테이너에 의해 자동으로 호출된다.
+	
+	@Bean
+	TV tv() {
+		SamsungTV tv = new SamsungTV();
+//		tv.setSpeaker(speaker());
+		return new SamsungTV();
+	}
+	
+	@Bean
+	Speaker speaker() {
+		return new AppleSpeaker();
+	}
+}

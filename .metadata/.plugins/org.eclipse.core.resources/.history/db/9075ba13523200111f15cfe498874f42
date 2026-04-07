@@ -1,0 +1,22 @@
+package com.rubypaper;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.webmvc.test.autoconfigure.WebMvcTest;
+import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
+
+
+@WebMvcTest
+public class BoardControllerTest2 {
+
+	// @WebMvcTest가 생성해준 가짜 서블릿 컨테이너를 Mockup한다. 
+	@Autowired
+	private MockMvc mockMvc;
+	
+	@Test
+	public void testHello() {
+		//브라우저에서 HTTP 요청(http://localhost:8080/hello.do?name=gurum)을 전송한다.
+		mockMvc.perform(MockMvcRequestBuilders.get("/hello.do").param("name","gurum"));
+	}
+}

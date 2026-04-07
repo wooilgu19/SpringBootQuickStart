@@ -1,0 +1,7 @@
+spring.application.name=Chapter01
+
+# 애플리케이션 타입을 설정한다.
+spring.main.web-application-type=servlet
+
+#서버의 포트를 설정한다.
+server.port = 8888

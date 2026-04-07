@@ -1,0 +1,11 @@
+create table board(
+	seq number(5) primary key,
+	title varchar2(200),
+	writer vachar2(20),
+	content varchar2(2000),
+	regdate date default current_data,
+	cnt nuber(5) default 0
+);
+
+insert into board(seq, title, writer, content)
+vaule(1, '가입인사', '채규태', '잘 부탁드립니다.');

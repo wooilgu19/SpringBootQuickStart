@@ -1,0 +1,21 @@
+package com.rubypaper.config;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import com.rubypaper.jdbc.ConnectionManager;
+
+//@EnableAutoConfiguration이 자동으로 생성할 환경 설정 클래스
+@Configuration
+public class BoardAutoConfiguration {
+	public BoardAutoConfiguration() {
+		System.out.println("---> BoardAutoConfiguration 생성");
+	}
+	
+	@Bean
+	ConnectionManager connectionManager() {
+		ConnectionManager manager = new ConnectionManager();
+		manager.setDriverClass("");
+	}
+
+}

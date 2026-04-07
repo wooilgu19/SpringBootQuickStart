@@ -1,0 +1,27 @@
+package com.rubypaper.tv;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class TVUser {
+
+	public static void main(String[] args) {
+		// 1. spring 컨테이너를 생성한다. 
+//		GenericXmlApplicationContext container = 
+//				new GenericXmlApplicationContext("context.xml");
+		
+		AnnotationConfigApplicationContext container = 
+				new AnnotationConfigApplicationContext(TVConfiguration.class);
+		
+		// 2. Spring 컨테이너가 생성한 객체를 look up 해서 사용한다.
+		
+		TV tv = (TV) container.getBean("tv");
+		tv.powerOn();
+		tv.volumeUp();
+		tv.volumeDown();
+		tv.powerOff();
+		
+		//3. spring 컨테이너를 종료한다. 
+		container.close();
+	}
+
+}

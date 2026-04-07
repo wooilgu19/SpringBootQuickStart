@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BoardControllerTest2" project="Chapter03" tests="1" started="1" failures="1" errors="0" ignored="0">
+  <testsuite name="com.rubypaper.BoardControllerTest2" time="0.453" displayname="BoardControllerTest2" uniqueid="[engine:junit-jupiter]/[class:com.rubypaper.BoardControllerTest2]">
+    <testcase name="testHello" classname="com.rubypaper.BoardControllerTest2" time="0.453" displayname="testHello()" uniqueid="[engine:junit-jupiter]/[class:com.rubypaper.BoardControllerTest2]/[method:testHello()]">
+      <failure>java.lang.AssertionError: Response content expected:&lt;hello : Gurum&gt; but was:&lt;hello : gurum&gt;&#13;
+	at org.springframework.test.util.AssertionErrors.fail(AssertionErrors.java:62)&#13;
+	at org.springframework.test.util.AssertionErrors.assertEquals(AssertionErrors.java:129)&#13;
+	at org.springframework.test.web.servlet.result.ContentResultMatchers.lambda$string$1(ContentResultMatchers.java:148)&#13;
+	at org.springframework.test.web.servlet.MockMvc$1.andExpect(MockMvc.java:212)&#13;
+	at com.rubypaper.BoardControllerTest2.testHello(BoardControllerTest2.java:29)&#13;
+&#13;
+</failure>
+    </testcase>
+  </testsuite>
+</testrun>

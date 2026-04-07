@@ -1,0 +1,25 @@
+package com.rubypaper.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.ApplicationArguments;
+import org.springframework.boot.ApplicationRunner;
+import org.springframework.stereotype.Service;
+
+import com.rubypaper.jdbc.ConnectionManager;
+
+//내가 작성한 클래스의 객체는 @ComponentScan이 자동으로 생성한다.
+
+//@Service
+public class ConnectionManagerService implements ApplicationRunner {
+	// @EnableAutoConfiguration이 생성해준 ConnetionManager 객체를 주입한다.
+	@Autowired
+	private ConnectionManager manager;
+
+	// ApplicationRunner를 구현한 객체가 생성되면 run() 메소드가 자동으로 생성한다. 
+	@Override
+	public void run(ApplicationArguments args) throws Exception {
+		System.out.println("생성된 ConnetionManager 정보 : " + manager.toString());
+		
+	}
+
+}

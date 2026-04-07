@@ -1,0 +1,35 @@
+package com.rubypaper;
+
+import org.springframework.boot.Banner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.SpringBootConfiguration;
+import org.springframework.boot.WebApplicationType;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+
+@SpringBootApplication
+//@SpringBootConfiguration
+//@EnableAutoConfiguration
+// 메인 클래스는 자신이 속한 패키지를 base-package로 하여 @Component가 붙은 객체를 생성한다.
+//@ComponentScan(basePackages = {"com.rubypaper"})
+public class Chapter01Application {
+
+	public static void main(String[] args) {
+//		SpringApplication.run(Chapter01Application.class, args);
+		SpringApplication application = new SpringApplication(Chapter01Application.class);
+		
+		//애플리케이션을 일반 자바 애플리케이션으로 변경하는 설정
+		application.setWebApplicationType(WebApplicationType.NONE);
+		
+		//배너 설정
+		application.setBannerMode(Banner.Mode.OFF);
+		
+				
+		application.run(args);
+		
+		
+		
+	}
+
+}

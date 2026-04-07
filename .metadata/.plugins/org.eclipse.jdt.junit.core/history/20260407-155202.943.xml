@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BoardControllerTest1" project="Chapter03" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.rubypaper.BoardControllerTest1" time="0.396" displayname="BoardControllerTest1" uniqueid="[engine:junit-jupiter]/[class:com.rubypaper.BoardControllerTest1]">
+    <testcase name="testMethod" classname="com.rubypaper.BoardControllerTest1" time="0.396" displayname="testMethod()" uniqueid="[engine:junit-jupiter]/[class:com.rubypaper.BoardControllerTest1]/[method:testMethod()]"/>
+  </testsuite>
+</testrun>
