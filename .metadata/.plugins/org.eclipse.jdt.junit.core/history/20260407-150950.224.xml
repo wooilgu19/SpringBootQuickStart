@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="MyCalcTest" project="Chapter03" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="com.rubypaper.MyCalcTest" time="0.014" displayname="MyCalcTest" uniqueid="[engine:junit-jupiter]/[class:com.rubypaper.MyCalcTest]">
-    <testcase name="testMinus" classname="com.rubypaper.MyCalcTest" time="0.012" displayname="testMinus()" uniqueid="[engine:junit-jupiter]/[class:com.rubypaper.MyCalcTest]/[method:testMinus()]"/>
-    <testcase name="testPlus" classname="com.rubypaper.MyCalcTest" time="0.001" displayname="testPlus()" uniqueid="[engine:junit-jupiter]/[class:com.rubypaper.MyCalcTest]/[method:testPlus()]"/>
-  </testsuite>
-</testrun>

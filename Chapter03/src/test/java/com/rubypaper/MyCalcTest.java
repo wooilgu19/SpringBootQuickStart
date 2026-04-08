@@ -45,7 +45,7 @@ class MyCalcTest {
 	@Test
 	void minus테스트() {
 		System.out.println("===> minus테스트()");
-		assertEquals(8, calc.minus());
+		assertEquals(7, calc.minus());
 	}
 
 }

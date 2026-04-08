@@ -1,0 +1,36 @@
+2026-04-08T11:36:59.470+09:00  INFO 11952 --- [Chapter03] [restartedMain] com.rubypaper.Chapter03Application       : Starting Chapter03Application using Java 25.0.2 with PID 11952 (C:\DEV\workspace\Chapter03\target\classes started by student in C:\DEV\workspace\Chapter03)
+2026-04-08T11:36:59.472+09:00  INFO 11952 --- [Chapter03] [restartedMain] com.rubypaper.Chapter03Application       : No active profile set, falling back to 1 default profile: "default"
+2026-04-08T11:36:59.579+09:00  INFO 11952 --- [Chapter03] [restartedMain] com.rubypaper.Chapter03Application       : Started Chapter03Application in 0.135 seconds (process running for 126.431)
+2026-04-08T11:36:59.581+09:00  INFO 11952 --- [Chapter03] [restartedMain] com.rubypaper.service.LoggingService     : ---INFO 레벨의 로그
+2026-04-08T11:36:59.581+09:00  WARN 11952 --- [Chapter03] [restartedMain] com.rubypaper.service.LoggingService     : ---WARN 레벨의 로그
+2026-04-08T11:36:59.581+09:00 ERROR 11952 --- [Chapter03] [restartedMain] com.rubypaper.service.LoggingService     : ---ERROR 레벨의 로그
+2026-04-08T11:36:59.582+09:00  INFO 11952 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2026-04-08T11:36:59.591+09:00  INFO 11952 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.pool.HikariPool        : HikariPool-4 - Added connection conn12: url=jdbc:h2:tcp://localhost/~/test user=SA
+2026-04-08T11:36:59.591+09:00  INFO 11952 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2026-04-08T11:36:59.601+09:00  WARN 11952 --- [Chapter03] [SpringApplicationShutdownHook] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
+2026-04-08T11:36:59.602+09:00  INFO 11952 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown initiated...
+2026-04-08T11:36:59.602+09:00  INFO 11952 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown completed.
+2026-04-08T11:42:41.776+09:00  INFO 14876 --- [Chapter03] [restartedMain] com.rubypaper.Chapter03Application       : Starting Chapter03Application using Java 25.0.2 with PID 14876 (C:\DEV\workspace\Chapter03\target\classes started by student in C:\DEV\workspace\Chapter03)
+2026-04-08T11:42:41.777+09:00  INFO 14876 --- [Chapter03] [restartedMain] com.rubypaper.Chapter03Application       : No active profile set, falling back to 1 default profile: "default"
+2026-04-08T11:42:42.334+09:00  INFO 14876 --- [Chapter03] [restartedMain] com.rubypaper.Chapter03Application       : Started Chapter03Application in 0.83 seconds (process running for 1.265)
+2026-04-08T11:42:42.336+09:00  INFO 14876 --- [Chapter03] [restartedMain] com.rubypaper.service.LoggingService     : ---INFO 레벨의 로그
+2026-04-08T11:42:42.336+09:00  WARN 14876 --- [Chapter03] [restartedMain] com.rubypaper.service.LoggingService     : ---WARN 레벨의 로그
+2026-04-08T11:42:42.336+09:00 ERROR 14876 --- [Chapter03] [restartedMain] com.rubypaper.service.LoggingService     : ---ERROR 레벨의 로그
+2026-04-08T11:42:42.341+09:00  INFO 14876 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-04-08T11:42:42.400+09:00  INFO 14876 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection conn0: url=jdbc:h2:tcp://localhost/~/test user=SA
+2026-04-08T11:42:42.401+09:00  INFO 14876 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-04-08T11:42:42.416+09:00  WARN 14876 --- [Chapter03] [SpringApplicationShutdownHook] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232]
+2026-04-08T11:42:42.417+09:00  INFO 14876 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-04-08T11:42:42.418+09:00  INFO 14876 --- [Chapter03] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026:44:08 11:44:09 INFO  ===> [restartedMain] com.rubypaper.Chapter03Application ::: Starting Chapter03Application using Java 25.0.2 with PID 8564 (C:\DEV\workspace\Chapter03\target\classes started by student in C:\DEV\workspace\Chapter03) 
+2026:44:08 11:44:09 INFO  ===> [restartedMain] com.rubypaper.Chapter03Application ::: No active profile set, falling back to 1 default profile: "default" 
+2026:44:08 11:44:10 INFO  ===> [restartedMain] com.rubypaper.Chapter03Application ::: Started Chapter03Application in 0.825 seconds (process running for 1.232) 
+2026:44:08 11:44:10 INFO  ===> [restartedMain] c.rubypaper.service.LoggingService ::: ---INFO 레벨의 로그 
+2026:44:08 11:44:10 WARN  ===> [restartedMain] c.rubypaper.service.LoggingService ::: ---WARN 레벨의 로그 
+2026:44:08 11:44:10 ERROR ===> [restartedMain] c.rubypaper.service.LoggingService ::: ---ERROR 레벨의 로그 
+2026:44:08 11:44:10 INFO  ===> [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource ::: HikariPool-1 - Starting... 
+2026:44:08 11:44:10 INFO  ===> [SpringApplicationShutdownHook] com.zaxxer.hikari.pool.HikariPool ::: HikariPool-1 - Added connection conn0: url=jdbc:h2:tcp://localhost/~/test user=SA 
+2026:44:08 11:44:10 INFO  ===> [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource ::: HikariPool-1 - Start completed. 
+2026:44:08 11:44:10 WARN  ===> [SpringApplicationShutdownHook] o.s.b.f.s.DisposableBeanAdapter ::: Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-232] 
+2026:44:08 11:44:10 INFO  ===> [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource ::: HikariPool-1 - Shutdown initiated... 
+2026:44:08 11:44:10 INFO  ===> [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource ::: HikariPool-1 - Shutdown completed. 

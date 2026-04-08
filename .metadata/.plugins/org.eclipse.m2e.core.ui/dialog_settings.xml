@@ -14,6 +14,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\DEV\workspace\Chapter02\src\main\resources"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -37,13 +38,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.rubypaper"/>
 		</list>
 		<list key="groupId">
-			<item value="com.rubypaper"/>
 		</list>
 		<list key="artifactId">
-			<item value="board-spring-boot-starter"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

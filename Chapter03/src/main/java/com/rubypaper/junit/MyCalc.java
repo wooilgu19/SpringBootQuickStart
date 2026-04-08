@@ -4,7 +4,6 @@ public class MyCalc {
 	private int x;
 	private int y;
 	
-	
 	public MyCalc(int x, int y) {
 		super();
 		this.x = x;
@@ -15,7 +14,7 @@ public class MyCalc {
 		return x + y;
 	}
 	
-	public int minus() { 
+	public int minus() {
 		return x - y;
 	}
 
