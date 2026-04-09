@@ -3,6 +3,8 @@ package com.rubypaper.domain;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.hibernate.annotations.CascadeType;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
