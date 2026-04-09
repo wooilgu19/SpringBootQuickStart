@@ -29,10 +29,10 @@ public class DataJpaTest {
 		Board board = new Board();
 		board.setSeq(2);
 		board.setTitle("Data JPA 테스트-수정");
-		board.setWriter("테스터");
-		board.setContent("Data JPA 테스트-수정");
-		board.setRegDate(new Date());
-		board.setCnt(0);
+//		board.setWriter("테스터");
+//		board.setContent("Data JPA 테스트-수정");
+//		board.setRegDate(new Date());
+//		board.setCnt(0);
 		// save() 메소드가 UPDATE 기능의 메소드다.
 		boardRepository.save(board);
 	}
@@ -64,10 +64,10 @@ public class DataJpaTest {
 	void insertBoard() {
 		Board board = new Board();
 		board.setTitle("Data JPA 테스트");
-		board.setWriter("테스터");
-		board.setContent("Data JPA 테스트");
-		board.setRegDate(new Date());
-		board.setCnt(0);
+//		board.setWriter("테스터");
+//		board.setContent("Data JPA 테스트");
+//		board.setRegDate(new Date());
+//		board.setCnt(0);
 		// save() 메소드가 INSERT 기능의 메소드다.
 		boardRepository.save(board);
 	}

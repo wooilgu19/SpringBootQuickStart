@@ -32,7 +32,7 @@ public interface BoardRepository extends JpaRepository<Board, Integer> {
 //	// 생성되는 JPQL : select b from Board as b where b.title like ?
 //	Page<Board> findByTitleContaining(String keyword, Pageable pageable);
 	
-	@Query("select b.seq, b.title, b.content from Board b where b.title like %:searchKeyword% order by b.seq desc")
+	@Query("select b.seq, b.title from Board b where b.title like %:searchKeyword% order by b.seq desc")
 	List<Object[]> getBoardListByJPQL(@Param("searchKeyword") String keyword, Pageable pageable);
 	
 	

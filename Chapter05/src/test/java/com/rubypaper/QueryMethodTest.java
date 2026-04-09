@@ -72,10 +72,10 @@ public class QueryMethodTest {
 		for (int i = 1; i <= 200; i++) {
 			Board board = new Board();
 			board.setTitle("테스트 제목-" + i);
-			board.setWriter("테스터");
-			board.setContent("테스트 내용-" + i);
-			board.setRegDate(new Date());
-			board.setCnt(0);
+//			board.setWriter("테스터");
+//			board.setContent("테스트 내용-" + i);
+//			board.setRegDate(new Date());
+//			board.setCnt(0);
 			boardRepository.save(board);
 		}
 	}
