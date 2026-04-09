@@ -2,10 +2,10 @@ package com.rubypaper.persistence;
 
 import java.util.List;
 
-import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
 
 import com.rubypaper.domain.Board;
 
@@ -32,8 +32,13 @@ public interface BoardRepository extends JpaRepository<Board, Integer> {
 //	// 생성되는 JPQL : select b from Board as b where b.title like ?
 //	Page<Board> findByTitleContaining(String keyword, Pageable pageable);
 	
-	@Query("select b from Board b where b.title like %?1%order by b.seq desc")
-	List<Board> getBoardListByJPQL(String keyword);
+	@Query("select b.seq, b.title, b.content from Board b where b.title like %:searchKeyword% order by b.seq desc")
+	List<Object[]> getBoardListByJPQL(@Param("searchKeyword") String keyword, Pageable pageable);
+	
+	
+	@Query(nativeQuery = true, 
+		   value = "select seq, title, content from board where title like '%'||:searchKeyword||'%' order by seq desc")
+	List<Object[]> getBoardListBySQL(@Param("searchKeyword") String keyword, Pageable pageable);
 }
 
 

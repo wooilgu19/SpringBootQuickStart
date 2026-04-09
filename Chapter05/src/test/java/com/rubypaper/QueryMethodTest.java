@@ -1,5 +1,6 @@
 package com.rubypaper;
 
+import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
 
@@ -7,6 +8,8 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.data.domain.PageRequest;
+import org.springframework.data.domain.Pageable;
 
 import com.rubypaper.domain.Board;
 import com.rubypaper.persistence.BoardRepository;
@@ -19,13 +22,25 @@ public class QueryMethodTest {
 	
 	@Test
 	void getBoardList() {
-		List<Board> boardList = boardRepository.getBoardListByJPQL("17");
+		Pageable pageable = PageRequest.of(0, 5);
+		List<Object[]> boardList = boardRepository.getBoardListBySQL("17", pageable);
 		
 		System.out.println("[ 검색 결과] ");
-		for (Board board : boardList) {
-			System.out.println("---> " + board.toString());
+		for (Object[] board : boardList) {
+			System.out.println("---> " + Arrays.toString(board));
 		}
 	}
+	
+//	@Test
+//	void getBoardList() {
+//		Pageable pageable = PageRequest.of(0, 5);
+//		List<Object[]> boardList = boardRepository.getBoardListByJPQL("17", pageable);
+//		
+//		System.out.println("[ 검색 결과] ");
+//		for (Object[] board : boardList) {
+//			System.out.println("---> " + Arrays.toString(board));
+//		}
+//	}
 
 //	@Test
 //	void getBoardList() {

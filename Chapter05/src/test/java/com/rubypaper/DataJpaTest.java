@@ -2,6 +2,7 @@ package com.rubypaper;
 
 import java.util.Date;
 import java.util.List;
+import java.util.Optional;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,9 +18,8 @@ public class DataJpaTest {
 	@Autowired
 	private BoardRepository boardRepository;
 	
-	@Test
+	//@Test
 	void deleteBoard() {
-
 		// deleteById() 메소드가 UPDATE 기능의 메소드다.
 		boardRepository.deleteById(2);
 	}
@@ -33,26 +33,25 @@ public class DataJpaTest {
 		board.setContent("Data JPA 테스트-수정");
 		board.setRegDate(new Date());
 		board.setCnt(0);
-		// save() 메소드가 INSERT 기능의 메소드다.
+		// save() 메소드가 UPDATE 기능의 메소드다.
 		boardRepository.save(board);
 	}
 	
-	//@Test
+	@Test
 	void getBoardList() {
-		//findAll() 메소드는 목록 검색이다.
+		// findAll() 메소드는 목록 검색이다.
 		List<Board> boardList = boardRepository.findAll();
-		System.out.println(" [ 검색 결과 ] ");
+		System.out.println("[ 검색 결과] ");
 		for (Board board : boardList) {
 			System.out.println("---> " + board.toString());
 		}
-		
 	}
 	
-//	@Test
+	//@Test
 	void getBoard() {
-//		//findById() 메소드는 상세 조회다.
+		// findById() 메소드는 상세 조회다.
 //		Optional<Board> findObject = boardRepository.findById(2);
-//		if(findObject.isPresent()) {
+//		if(findObject.isPresent()) { // 검색 결과가 있다면...
 //			Board board = findObject.get();
 //			System.out.println("검색 결과 : " + board.toString());
 //		}

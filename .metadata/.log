@@ -2101,3 +2101,660 @@ org.eclipse.swt.SWTException: Widget is disposed
 
 !ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:52:08.839
 !MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=1, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:21.133
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:22.992
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:23.989
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:27.623
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:27.623
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=4, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:27.856
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:27.856
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=6, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:29.674
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:29.674
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=7, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:31.980
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:31.980
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=9, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:32.219
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:32.219
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=11, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:32.870
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:32.870
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=12, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:32.980
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:32.980
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:36.179
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:36.179
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:58.649
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:56:58.649
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:00.364
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:00.364
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:01.631
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1397, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:01.631
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1426, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:03.475
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:03.475
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:05.504
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:05.504
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:06.082
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:06.083
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:08.867
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:08.867
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:09.943
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:09.943
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:12.182
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:12.183
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:12.927
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:12.927
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:14.580
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:14.580
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:17.952
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:17.952
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:18.961
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:18.962
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 13:57:27.007
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 13:57:27.007
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 13:57:27.008
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 13:57:27.008
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:45.698
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1454, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:57:45.698
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1483, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:21.410
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1458, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:21.410
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1487, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:25.211
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1467, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:25.212
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1496, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:28.647
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:28.647
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:45.984
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:45.984
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:48.020
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:48.021
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:48.234
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:48.234
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:49.379
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:49.380
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:51.569
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 13:58:51.570
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:00:40.855
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:00:40.855
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:00:40.856
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:00:40.856
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:35.226
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:35.226
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:44.375
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:44.375
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:45.353
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:45.354
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:47.134
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:47.134
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:47.773
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:47.774
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:50.850
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:50.851
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:52.488
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:52.489
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:54.937
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:54.938
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:56.622
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:56.623
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:57.689
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:57.689
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:59.097
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:01:59.098
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:02:07.368
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:02:07.368
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:02:07.368
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:02:07.369
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:02:16.760
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:02:16.761
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:03:09.272
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:03:09.273
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:03:09.273
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:03:09.273
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:07.353
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:07.353
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:19.036
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:19.037
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:19.037
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1690, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:19.037
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1719, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:28.896
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:28.897
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:30.707
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:30.708
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:31.494
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:31.496
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:31.496
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1698, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:31.496
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1727, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:35.489
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:35.489
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:35.696
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:35.696
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:36.763
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:36.763
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:38.851
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:38.851
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:41.227
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:41.227
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:44.689
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:44.689
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:45.990
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:45.990
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:48.533
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:48.533
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:52.984
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:52.984
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:53.323
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:53.323
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:56.443
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:56.443
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:57.610
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:04:57.611
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:26.567
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:26.568
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:41.054
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:41.054
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:43.354
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:43.354
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:45.892
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:45.892
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:46.182
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:46.182
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:46.767
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:46.768
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:52.550
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:52.550
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:52.719
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:52.721
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:53.479
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:53.479
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:56.731
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:05:56.732
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:03.478
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:03.478
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:03.578
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:03.578
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:06.815
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:06.815
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:06.915
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:06.915
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:12.452
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:12.452
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:12.453
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1746, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:12.553
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:12.553
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:12.553
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1746, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:13.340
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:13.340
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:13.340
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1746, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:14.760
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:14.760
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:14.760
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1746, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:14.862
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:14.863
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:14.863
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1746, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:19.120
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:19.120
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:06:19.120
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1746, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:09:10.298
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:09:10.298
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:09:10.298
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:09:10.298
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:09:11.466
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:09:11.466
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:09:11.466
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:09:11.467
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:11:45.308
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1478, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:11:45.308
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1507, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:11:45.308
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1746, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:16.629
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1432, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:16.629
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1461, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:16.629
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1706, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:17.245
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:17.245
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:17.246
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:17.246
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:17.773
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1432, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:17.773
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1461, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:17.773
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1706, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:18.152
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:18.153
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:18.153
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:18.153
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:18.396
+!MESSAGE Plugin is modifying compileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:18.397
+!MESSAGE Plugin is modifying compileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addCompileSourceRoot()/removeCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:18.397
+!MESSAGE Plugin is modifying testCompileSourceRoots through clear(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-04-09 14:12:18.397
+!MESSAGE Plugin is modifying testCompileSourceRoots through add(), which will not work in Maven 4.0.0. Use MavenProject.addTestCompileSourceRoot()/removeTestCompileSourceRoot() methods instead. If using a plugin, please upgrade to the latest version or report the issue to the plugin maintainer. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:18.936
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1432, length=5, tokenType=CLASS]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:18.937
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1461, length=13, tokenType=PARAMETER_VARIABLE]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2026-04-09 14:12:18.937
+!MESSAGE Cannot find semantic highlighting for SemanticToken[ofset=1706, length=13, tokenType=PARAMETER_VARIABLE]
