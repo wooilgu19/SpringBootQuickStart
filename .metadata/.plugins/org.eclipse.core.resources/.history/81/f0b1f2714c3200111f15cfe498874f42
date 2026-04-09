@@ -1,9 +1,0 @@
-package com.rubypaper;
-
-import org.springframework.boot.test.context.SpringBootTest;
-
-// @SpringBootTest는 @SpringBootApplication과 동일하게 동작한다.
-@SpringBootTest
-public class PropertiesTest {
-
-}

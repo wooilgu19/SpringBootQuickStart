@@ -1,48 +1,51 @@
-3:08:35 Tab55 StartNav449 #typed
-3:08:35 Tab55 FinishNav449
-3:08:35 Tab55 PageLoad
-3:10:14 Tab55 StartNav450 #typed
-3:10:14 Tab55 FinishNav450
-3:10:14 Tab55 PageLoad
-3:10:16 Tab55 StartNav451 #typed
-3:10:16 Tab55 FinishNav451
-3:10:16 Tab55 PageLoad
-3:10:22 Tab55 StartNav452 #typed
-3:10:22 Tab55 FinishNav452
-3:10:22 Tab55 PageLoad
-3:10:24 Tab55 StartNav453 #typed
-3:10:24 Tab55 FinishNav453
-3:10:24 Tab55 PageLoad
-3:10:26 Tab55 StartNav454 #typed
-3:10:26 Tab55 FinishNav454
-3:10:26 Tab55 PageLoad
-3:10:27 Tab55 StartNav455 #typed
-3:10:27 Tab55 FinishNav455
-3:10:27 Tab55 PageLoad
-3:10:28 Tab55 StartNav456 #typed
-3:10:28 Tab55 FinishNav456
-3:10:28 Tab55 PageLoad
-3:10:37 Tab55 StartNav457 #typed
-3:10:37 Tab55 FinishNav457
-3:10:37 Tab55 PageLoad
-3:10:41 Tab55 StartNav458 #typed
-3:10:41 Tab55 FinishNav458
-3:10:41 Tab55 PageLoad
-3:10:43 Tab55 StartNav459 #typed
-3:10:43 Tab55 FinishNav459
-3:10:43 Tab55 PageLoad
-3:11:31 Tab41 StartNav460 #typed
-3:11:31 Tab41 FinishNav460
-3:11:31 Tab41 PageLoad
-3:13:18 Tab55 StartNav461 #typed
-3:13:18 Tab55 FinishNav461
-3:13:18 Tab55 PageLoad
-3:13:20 Tab55 StartNav462 #typed
-3:13:20 Tab55 FinishNav462
-3:13:20 Tab55 PageLoad
-3:13:29 Tab55 StartNav463 #typed
-3:13:29 Tab55 FinishNav463
-3:13:29 Tab55 PageLoad
-3:13:30 Tab55 StartNav464 #typed
-3:13:30 Tab55 FinishNav464
-3:13:30 Tab55 PageLoad
+4:29:31 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+4:29:31 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+4:29:31 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosingAll
+4:29:31 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+4:29:31 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+4:29:31 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+4:29:31 Tab82 FinishNav638 ERR_ABORTED
+4:29:31 Tab82 FinishNav639 ERR_ABORTED
+4:29:31 Tab82 RenderProcessGone
+4:29:31 Microsoft.UnloadController.ClearUnloadState
+4:29:31 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+4:29:31 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+4:29:31 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+4:29:31 Microsoft.UnloadController.ClearUnloadState
+4:29:31 Browser82 Close Tab82 at 0
+4:29:31 Tab82 WebContentsDestroyed
+4:29:31 Microsoft.UnloadController.TabStripEmpty
+4:29:31 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+4:29:31 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+4:29:31 Microsoft.Shutdown.OnWindowClosing
+4:29:31 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+4:29:31 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+4:29:31 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+4:29:31 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+4:29:31 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+4:29:31 Widget Closed: BrowserWidget
+4:29:31 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+4:29:31 Microsoft.Shutdown.OnWindowClosing
+4:29:31 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+4:29:31 Microsoft.Browser_Removed
+4:31:08 Tab75 StartNav640 #typed
+4:31:08 Tab75 FinishNav640
+4:31:08 Tab75 PageLoad
+4:32:03 Tab75 StartNav641 #typed
+4:32:03 Tab75 FinishNav641
+4:32:03 Tab75 PageLoad
+4:33:07 Tab75 StartNav642 #typed
+4:33:07 Tab75 FinishNav642
+4:33:07 Tab75 PageLoad
+4:33:16 Tab75 StartNav643 #typed
+4:33:16 Tab75 FinishNav643
+4:33:16 Tab75 PageLoad
+4:33:22 Tab75 StartNav644 #typed
+4:33:22 Tab75 FinishNav644
+4:33:22 Tab75 PageLoad
+4:33:31 Tab79 StartNav645 #typed
+4:33:31 Tab79 FinishNav645
+4:33:31 Tab79 PageLoad
+4:33:49 Tab79 StartNav646 #typed
+4:33:49 Tab79 FinishNav646
+4:33:49 Tab79 PageLoad
