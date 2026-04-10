@@ -9,6 +9,7 @@
 <center>
 <h1>게시글 상세</h1>
 <font color="red" th:text=${session['user'].name}"></font>님 로그인 환영합니다.
+<a href="logout.do">LOG-OUT</a>
 <hr>
 <form action="updateBoard.do" method="post">
 <input type="hidden" name="seq" th:value="${board.seq }"/>

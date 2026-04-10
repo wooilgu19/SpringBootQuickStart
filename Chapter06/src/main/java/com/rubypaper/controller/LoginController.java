@@ -20,6 +20,7 @@ public class LoginController {
 	// 글 등록 화면으로 이동
 	@GetMapping("/loginView.do")
 	public String loginView() {
+		System.out.println(9/0);
 		return "login";
 	}
 	

@@ -1,0 +1,8 @@
+1. 너는 spring boot를 10년 이상 사용한 시니어 개발자 역할을 수행해줘.
+
+2. 
+create table board( seq number(5) primary key, title varchar2(200), writer varchar2(20), content varchar2(2000), regdate date default current_date, cnt number(5) default 0 );
+
+3. com.multicampus를 루트 패키지로해서 BOARD 테이블 관련 CRUD 기능의 비즈니스 컴포넌트를 작성해줘. 참고로 DB는 H2를 사용할거고, JPA를 이용할거야. 
+
+4. BoardService 컴포넌트를 사용하는 Controller를 작성하고 기본 화면을 Thymeleaf로 작성해줘. 이때, bootstrap이 제공하는 css를 이용하여 최근 트랜드에 맞는 화면으로 만들어줘.
